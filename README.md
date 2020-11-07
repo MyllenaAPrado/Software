@@ -1,5 +1,5 @@
 # TrabalhoSB1
-Trabalho desenvolvido junto com outro programador na matéria de software básico da Unb
+Trabalho desenvolvido em uma matéria de software básico da UnB, o trabalho foi feito em dupla.
 
 # Execução
 
